@@ -1,0 +1,23 @@
+{
+  "name": "rn-cafebazaar-intents",
+  "version": "1.0.0",
+  "description": "cafebazaar intents for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Masoud Aghaei",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msdit/rn-cafebazaar-intents.git"
+  },
+  "bugs": {
+    "url": "https://github.com/msdit/rn-cafebazaar-intents/issues"
+  },
+  "homepage": "https://github.com/msdit/rn-cafebazaar-intents#README.md",
+  "peerDependencies": {
+    "react-native": "^0.63.4"
+  }
+}
